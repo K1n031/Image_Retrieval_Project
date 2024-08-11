@@ -8,6 +8,7 @@ This project is focused on developing an image retrieval system that identifies 
 * Usage
 * Project Structure
 * Methodology
+* Results
 
 ## Installation
 ### Prerequisites
